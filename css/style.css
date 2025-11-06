@@ -15,7 +15,7 @@ body {
 
 /* Titre */
 .card::before {
-    content: "NX-302 : Calculator";
+    content: "NX-302 : Tiny Calculator";
     display: block;
     text-align: center;
     font-size: 2rem;  
